@@ -13,7 +13,11 @@ export default function Home() {
       <main>
         <Header title="Welcome to our Minting Site!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Here you can mint our NFT collection!
+        </p>
+
+        <p className="description">
+          Testing Description 2
         </p>
       </main>
 
