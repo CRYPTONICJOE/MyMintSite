@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to our Minting Site!" />
+        <Header title="Welcome to our Minting Site basic!" />
         <p className="description">
           Here you can mint our NFT collection!
         </p>
